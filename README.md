@@ -1,4 +1,4 @@
-# Binomial Solver
+# INCOMPLETE Binomial Solver
  Pricing Options and Derivatives using Binomial Method
 -------
 ### Black Scholes Model
@@ -17,6 +17,9 @@
 1. Implemented using a set of inter-connected classes each with their own respective functionality.
 2. Possible to choose between a number of models for generating values for the forward induction phase (CRR, TRG...).
 3. Ability to define flexible payoff functions, create put or calls.
+#### Incomplete Source Code
+- The code is not finished and driver class has not been implemented.
+
 
 
 
